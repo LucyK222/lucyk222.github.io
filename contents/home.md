@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![LucyK222](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/LucyK222)
 
 She is currently an undergraduate student specializing in Bioinformatics in the Department of Arts and Sciences at University of Toronto.
 
