@@ -2,7 +2,7 @@
 
 
 :root{
-    --h-title-color:#3948d2;
+    --h-title-color:#277C5E;
 }
 
 .header {
@@ -52,6 +52,17 @@ section .main-body{
     font-size: 1.3rem;
     font-weight: 200;
     line-height: 2.4rem;
+}
+
+section .main-body a {
+    color: #3DBF91;
+    text-decoration: none;
+}
+
+section .main-body a:hover,
+section .main-body a:focus {
+    color: #2f9f79;
+    text-decoration: none;
 }
 
 
@@ -108,5 +119,4 @@ section .main-body{
         margin: 0;
     }
 }
-
 

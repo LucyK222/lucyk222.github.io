@@ -3,6 +3,8 @@
 const content_dir = 'contents/'
 const config_file = 'config.yml'
 const section_names = ['home', 'publications', 'awards']
+const avatar_default_src = 'static/assets/img/photo.png'
+const avatar_hover_src = 'static/assets/img/Ozzy.JPG'
 
 
 window.addEventListener('DOMContentLoaded', event => {
@@ -61,5 +63,16 @@ window.addEventListener('DOMContentLoaded', event => {
             })
             .catch(error => console.log(error));
     })
+
+    const avatarImage = document.getElementById('avatar-image');
+    if (avatarImage) {
+        avatarImage.addEventListener('mouseenter', () => {
+            avatarImage.src = avatar_hover_src;
+        });
+
+        avatarImage.addEventListener('mouseleave', () => {
+            avatarImage.src = avatar_default_src;
+        });
+    }
 
 }); 
