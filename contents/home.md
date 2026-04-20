@@ -4,7 +4,7 @@
 
 I am currently an undergraduate student specializing in Bioinformatics in the Department of Arts and Sciences at [University of Toronto](uoft.html).
 Before coming to Toronto, I spent the first 18 years of life in Beijing — a place with amazing food and people. 
-She graduated from a well-known (hopefully) high school — [ESBNU](ESBNU.html) — a place she both loves and hates.
+I graduated from a well-known (hopefully) high school — [ESBNU](ESBNU.html) — a place she both loves and hates.
 
 #### Contact
 
